@@ -21,7 +21,8 @@ const HomeMain = () => {
             <Features />
             <div className="heatmap-container" style={{ textAlign: "center", margin: "20px 0" }}>
                 <h1>HeatMap:</h1>
-                <p>Explore our interactive heatmap showcasing the distribution of crimes against women across India. This visual tool highlights high-risk areas, helping to raise awareness and support efforts to enhance safety and protection for women nationwide.</p>
+                <p>Explore our interactive heatmap showcasing the distribution of crimes against women across India. This visual tool highlights high-risk areas, 
+                    helping to raise awareness and support efforts to enhance safety and protection for women nationwide.</p>
                 <div
                     className="tableauPlaceholder"
                     id="viz1725183408128"
